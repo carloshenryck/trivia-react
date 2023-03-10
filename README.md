@@ -29,3 +29,13 @@ Rode a aplicação
 ```bash
 npm start
 ```
+## 👨‍💻 Contribuidores
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/CarlosHenryck" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/58481753?v=4s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Carlos Henryck</b></sub></a> <br><br/>
+    <td align="center"><a href="https://github.com/joaofischborn" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102385010?v=4" width="100px;" alt=""/><br /><sub><b>João Vitor</b></sub></a><br><br/>
+</td>
+<td align="center"><a href="https://github.com/rafaeldev13" target="_blank" ><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102384932?v=4" width="100px;" alt=""/><br /><sub><b>Rafael Alencar</b></sub></a><br><br/>
+</td>
+  </tr>
+</table>
