@@ -18,6 +18,7 @@ O projeto consiste em desenvolver um jogo de Quiz que possui um sistema de ranki
 ## 🧠 Aprendizados
 - Utilizar Redux para gerenciar contextos
 - Praticar testes unitários no front-end com RTL
+- Organização e comunicação de equipe
 
 ## 📦 Rodando o projeto
 
